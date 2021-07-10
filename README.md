@@ -1,6 +1,3 @@
 # AI Project Web application for Object Identification
-## Technologies Used :
-       1) Django 
-       2) Python 
-       3) kera application
-       
+## Django web application for Uploading Image and submitting it . Backend creation using pretrained Keras model -Resnet50 and integrating web application with deep learning backend.
+
